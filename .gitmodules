@@ -1,3 +1,6 @@
 [submodule "spireui-essentials"]
 	path = spireui-essentials
 	url = https://github.com/oxrinz/spireui-essentials
+[submodule "spireui-tools"]
+	path = spireui-tools
+	url = https://github.com/oxrinz/spireui-tools
